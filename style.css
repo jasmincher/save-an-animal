@@ -21,17 +21,7 @@ html body{
 }
 
 .content{
-    margin: 30px;
-}
-
-.carousel-item{
-    width: 10%;
-    height: 10%;
-    object-fit: cover;
+    margin: 3% 11% 3% 11%;
     text-align: center;
-    margin: auto;
 }
 
-.carousel-img{
-    height: 700px;
-}
