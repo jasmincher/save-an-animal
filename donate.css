@@ -1,0 +1,53 @@
+
+/* @import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Short+Stack&display=swap');
+
+.navbar{
+    padding: 15px !important;
+}
+
+.nav-item{
+  float: right !important;  
+}
+
+.navbar-brand{
+    color: rgb(190, 207, 195) !important;
+    /* font-family: 'Sacramento', cursive; */
+    font-family: 'Short Stack', cursive;
+    font-size: 12px;
+}
+
+html body{
+    font-family: 'Short Stack', cursive; 
+}
+
+.content{
+    margin: 3% 11% 3% 11%;
+    text-align: center;
+}
+
+.jumbotron{
+	
+  background-size: cover;
+  background-position: center;
+	
+}
+.jumbotron p{
+	text-align: right;
+	text-decoration-color: #ead267;
+	color: #ead267;
+
+}
+.jumbotron h1{
+	color: #ead267;
+	text-decoration-color: center;
+
+}
+
+body{
+	background-color: #e5ccbe;
+}
+.jumbotron jumbotron-fluid{
+	background-color: #dae3f2;
+	background-image: none;
+}
