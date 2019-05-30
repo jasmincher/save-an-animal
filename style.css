@@ -1,0 +1,37 @@
+/* @import url('https://fonts.googleapis.com/css?family=Sacramento&display=swap'); */
+@import url('https://fonts.googleapis.com/css?family=Short+Stack&display=swap');
+
+.navbar{
+    padding: 15px !important;
+}
+
+.nav-item{
+  float: right !important;  
+}
+
+.navbar-brand{
+    color: rgb(190, 207, 195) !important;
+    /* font-family: 'Sacramento', cursive; */
+    font-family: 'Short Stack', cursive;
+    font-size: 12px;
+}
+
+html body{
+    font-family: 'Short Stack', cursive; 
+}
+
+.content{
+    margin: 30px;
+}
+
+.carousel-item{
+    width: 10%;
+    height: 10%;
+    object-fit: cover;
+    text-align: center;
+    margin: auto;
+}
+
+.carousel-img{
+    height: 700px;
+}
